@@ -38,6 +38,6 @@ This **Banking Management System** is built using **HTML, CSS, JavaScript, PHP, 
 
 ### 🔗 Direct Image Links
 
-- **SignUp Page:** [View](https://raw.githubusercontent.com/alfahad5/Banking-Management-System/img/screenshot/SignUp.png)
-- **Admin Panel:** [View](https://raw.githubusercontent.com/alfahad5/Banking-Management-System/img/screenshot/AdminPanel.png)
+- **SignUp Page:** [View](https://raw.githubusercontent.com/alfahad5/Banking-Management-System/blob/main/img/screenshot/SignUp.png)
+- **Admin Panel:** [View](https://raw.githubusercontent.com/alfahad5/Banking-Management-System/blob/main/img/screenshot/AdminPanel.png)
 - **User Panel:** [View](https://raw.githubusercontent.com/alfahad5/Banking-Management-System/img/screenshot/UserPanel.png)
